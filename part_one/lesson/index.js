@@ -33,6 +33,7 @@ $('#show-jared-button').click(function(){
   $('#name-p').show();
 });
 
+$("#name-p").css("cursor", "pointer")
 /*
   You can set css of html elements in your javascript
 */
